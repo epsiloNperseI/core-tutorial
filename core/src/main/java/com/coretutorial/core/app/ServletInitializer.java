@@ -1,5 +1,6 @@
-package com.coretutorial.core;
+package com.coretutorial.core.app;
 
+import com.coretutorial.core.controllers.CoreApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
